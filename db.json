@@ -1,0 +1,83 @@
+{
+    "usuarios": [{
+            "id": 1,
+            "nombre": "Emmanuel",
+            "apellido paterno": "Moreno",
+            "apellido materno": "Rocha",
+            "Rol": "Administrador",
+            "correo": "emmamor@gmail.com"
+        },
+        {
+            "id": 2,
+            "nombre": "Cesar",
+            "apellido paterno": "Blanco",
+            "apellido materno": "Rodríguez",
+            "Rol": "Usuario común",
+            "correo": "rogerblanro@gmail.com"
+        },
+        {
+            "id": 3,
+            "nombre": "Jesús",
+            "apellido paterno": "Leal",
+            "apellido materno": "Ávila",
+            "Rol": "Administrador",
+            "correo": "chuyleala@gmail.com"
+        },
+        {
+            "id": 4,
+            "nombre": "Pedro",
+            "apellido paterno": "Fuentes",
+            "apellido materno": "Flores",
+            "Rol": "Usuario común",
+            "correo": "pedritof@gmail.com"
+        },
+        {
+            "id": 5,
+            "nombre": "Carlos",
+            "apellido paterno": "Arreola",
+            "apellido materno": "Olvera",
+            "Rol": "Usuario común",
+            "correo": "olveracarlos@gmail.com"
+        },
+        {
+            "id": 6,
+            "nombre": "Carolina",
+            "apellido paterno": "Leyva",
+            "apellido materno": "González",
+            "Rol": "Administrador",
+            "correo": "caroleygnz@gmail.com"
+        },
+        {
+            "id": 7,
+            "nombre": "Emma",
+            "apellido paterno": "Watson",
+            "apellido materno": "Aguilera",
+            "Rol": "Usuario común",
+            "correo": "emmawagui@gmail.com"
+        },
+        {
+            "id": 8,
+            "nombre": "Miguel",
+            "apellido paterno": "Muñoz",
+            "apellido materno": "Calderón",
+            "Rol": "Administrador",
+            "correo": "miguelmucal@gmail.com"
+        },
+        {
+            "id": 9,
+            "nombre": "Diana",
+            "apellido paterno": "Hernández",
+            "apellido materno": "Rodríguez",
+            "Rol": "Usuario común",
+            "correo": "dianahrgz@gmail.com"
+        },
+        {
+            "id": 10,
+            "nombre": "Vanessa",
+            "apellido paterno": "González",
+            "apellido materno": "Nava",
+            "Rol": "Administrador",
+            "correo": "vanegleznava@gmail.com"
+        }
+    ]
+}
