@@ -11,15 +11,15 @@
             "id": 2,
             "nombre": "Cesar",
             "apellido paterno": "Blanco",
-            "apellido materno": "Rodríguez",
-            "Rol": "Usuario común",
+            "apellido materno": "Rodriguez",
+            "Rol": "Usuario comun",
             "correo": "rogerblanro@gmail.com"
         },
         {
             "id": 3,
-            "nombre": "Jesús",
+            "nombre": "Jesus",
             "apellido paterno": "Leal",
-            "apellido materno": "Ávila",
+            "apellido materno": "Avila",
             "Rol": "Administrador",
             "correo": "chuyleala@gmail.com"
         },
@@ -28,7 +28,7 @@
             "nombre": "Pedro",
             "apellido paterno": "Fuentes",
             "apellido materno": "Flores",
-            "Rol": "Usuario común",
+            "Rol": "Usuario comun",
             "correo": "pedritof@gmail.com"
         },
         {
@@ -36,14 +36,14 @@
             "nombre": "Carlos",
             "apellido paterno": "Arreola",
             "apellido materno": "Olvera",
-            "Rol": "Usuario común",
+            "Rol": "Usuario comun",
             "correo": "olveracarlos@gmail.com"
         },
         {
             "id": 6,
             "nombre": "Carolina",
             "apellido paterno": "Leyva",
-            "apellido materno": "González",
+            "apellido materno": "Gonzalez",
             "Rol": "Administrador",
             "correo": "caroleygnz@gmail.com"
         },
@@ -52,29 +52,29 @@
             "nombre": "Emma",
             "apellido paterno": "Watson",
             "apellido materno": "Aguilera",
-            "Rol": "Usuario común",
+            "Rol": "Usuario comun",
             "correo": "emmawagui@gmail.com"
         },
         {
             "id": 8,
             "nombre": "Miguel",
             "apellido paterno": "Muñoz",
-            "apellido materno": "Calderón",
+            "apellido materno": "Calderon",
             "Rol": "Administrador",
             "correo": "miguelmucal@gmail.com"
         },
         {
             "id": 9,
             "nombre": "Diana",
-            "apellido paterno": "Hernández",
-            "apellido materno": "Rodríguez",
-            "Rol": "Usuario común",
+            "apellido paterno": "Hernandez",
+            "apellido materno": "Rodriguez",
+            "Rol": "Usuario comun",
             "correo": "dianahrgz@gmail.com"
         },
         {
             "id": 10,
             "nombre": "Vanessa",
-            "apellido paterno": "González",
+            "apellido paterno": "Gonzalez",
             "apellido materno": "Nava",
             "Rol": "Administrador",
             "correo": "vanegleznava@gmail.com"
